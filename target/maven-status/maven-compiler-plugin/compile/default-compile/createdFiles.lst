@@ -1,0 +1,7 @@
+com\employes\profils\entities\ProjectionProfil.class
+com\employes\profils\service\ServiceProfilImpl.class
+com\employes\profils\ProfilsApplication.class
+com\employes\profils\service\ServiceProfil.class
+com\employes\profils\service\ProfilServicesRest.class
+com\employes\profils\repository\ProfilRepository.class
+com\employes\profils\entities\Profil.class
