@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="991940c1-6e09-4854-a3f9-d0e06b38f2a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app-deployment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-svc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db-deployment.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db-svc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-configMap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql-secrets.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web-profil/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app-deployment.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-profil/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web-profil/src/app/app.component.html" afterDir="false" />
     </list>
@@ -173,7 +169,9 @@
       <workItem from="1650969138518" duration="19355000" />
       <workItem from="1653921511968" duration="6715000" />
       <workItem from="1660245537199" duration="5138000" />
-      <workItem from="1660651961292" duration="6094000" />
+      <workItem from="1660651961292" duration="8892000" />
+      <workItem from="1661113427632" duration="1358000" />
+      <workItem from="1661599609587" duration="1576000" />
     </task>
     <servers />
   </component>

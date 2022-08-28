@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: profils
-          image: profils:1.0
+          image: hatembd/profils:1.0
           ports:
             - containerPort: 8090
           env:   # Setting Enviornmental Variables
