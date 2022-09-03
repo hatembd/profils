@@ -22,4 +22,3 @@ public interface ProfilRepository extends JpaRepository<Profil,Long> {
     public Page<Profil> findByNomContains(@Param("mc") String n, Pageable pageable);
 
 }
-

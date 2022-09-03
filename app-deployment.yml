@@ -16,7 +16,7 @@ spec:
         - name: profils
           image: hatembd/profils
           ports:
-            - containerPort: 8090
+            - containerPort: 8200
           env:   # Setting Enviornmental Variables
             - name: DB_HOST   # Setting Database host address from configMap
               valueFrom :
